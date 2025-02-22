@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.76aec624.css",
-    "main.js": "/my-app/static/js/main.8a679e93.js",
-    "static/js/156.6a35e1a0.chunk.js": "/my-app/static/js/156.6a35e1a0.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.76aec624.css.map": "/my-app/static/css/main.76aec624.css.map",
-    "main.8a679e93.js.map": "/my-app/static/js/main.8a679e93.js.map",
-    "156.6a35e1a0.chunk.js.map": "/my-app/static/js/156.6a35e1a0.chunk.js.map"
+    "main.css": "/httnpm%20run%20deployps://bikrambohara.github.io/my-app/static/css/main.76aec624.css",
+    "main.js": "/httnpm%20run%20deployps://bikrambohara.github.io/my-app/static/js/main.df8b6b4d.js",
+    "static/js/156.6a35e1a0.chunk.js": "/httnpm%20run%20deployps://bikrambohara.github.io/my-app/static/js/156.6a35e1a0.chunk.js",
+    "index.html": "/httnpm%20run%20deployps://bikrambohara.github.io/my-app/index.html",
+    "main.76aec624.css.map": "/httnpm%20run%20deployps://bikrambohara.github.io/my-app/static/css/main.76aec624.css.map",
+    "main.df8b6b4d.js.map": "/httnpm%20run%20deployps://bikrambohara.github.io/my-app/static/js/main.df8b6b4d.js.map",
+    "156.6a35e1a0.chunk.js.map": "/httnpm%20run%20deployps://bikrambohara.github.io/my-app/static/js/156.6a35e1a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76aec624.css",
-    "static/js/main.8a679e93.js"
+    "static/js/main.df8b6b4d.js"
   ]
 }
